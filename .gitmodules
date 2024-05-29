@@ -1,0 +1,6 @@
+[submodule "source"]
+	path = source
+	url = https://github.com/Ackee-Blockchain/rhinestone-modulekit.git
+[submodule "registry"]
+	path = registry
+	url = https://github.com/rhinestonewtf/registry.git
